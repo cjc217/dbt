@@ -1,1 +1,0 @@
-SHOW views IN dbt_test;
